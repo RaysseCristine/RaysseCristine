@@ -18,5 +18,11 @@ Seja bem-vindo ao meu GitHub!
 </div>
 
 
+<div>
+<a href="https://github.com/RaysseCristine">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaysseCristine&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RaysseCristine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
