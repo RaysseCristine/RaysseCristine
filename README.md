@@ -1,6 +1,4 @@
-# 👋 Olá!
-Me chamo Raysse Cristine.
-Seja bem-vindo ao meu GitHub!
+# 👋 Olá! Seja bem-vindo ao meu GitHub!
 
 - :mortar_board: Sou iniciante em TI, com formação em Gestão Financeira.
 - :sunglasses: Tenho conhecimento em Java, aprofundamento em regras, aspectos técnicos, lógica de programação com manipulação e construção de classes, atributos e mérito.
