@@ -7,7 +7,8 @@ Seja bem-vindo ao meu GitHub!
 - :books: Frameworks: JDBC e metodologia ágil Scrum e dependências como Maven.
 
 ## Ferramentas e Tecnologias em Desenvolvimento
-<i class="devicon-spring-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
 
 
 
