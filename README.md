@@ -7,10 +7,7 @@ Seja bem-vindo ao meu GitHub!
 - :books: Frameworks: JDBC e metodologia ágil Scrum e dependências como Maven.
 
 ## Ferramentas e Tecnologias em Desenvolvimento
-<i class="devicon-spring-plain colorido "></i>colori
-
-
-
+<i class="devicon-spring-plain colorido "></i>
 
 ## Contato:
 <a href="https://www.linkedin.com/in/raysse-cristine-salvino-teixeira-b1b707244/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
