@@ -2,7 +2,7 @@
 
 - :mortar_board: Sou iniciante em TI, com formação em Gestão Financeira.
 - :sunglasses: Tenho conhecimento em Java, aprofundamento em regras, aspectos técnicos, lógica de programação com manipulação e construção de classes, atributos e mérito.
-- :books: Frameworks: JDBC e metodologia ágil Scrum e dependências como Maven.
+- :books: Frameworks: JDBC, metodologia ágil Scrum e dependências como Maven.
 
 ## Ferramentas e Tecnologias em Desenvolvimento
 
