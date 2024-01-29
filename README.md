@@ -7,7 +7,8 @@ Seja bem-vindo ao meu GitHub!
 - :books: Frameworks: JDBC e metodologia ágil Scrum e dependências como Maven.
 
 ## Ferramentas e Tecnologias em Desenvolvimento
-<i class="devicon-spring-plain colorido "></i>colori
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 
 
 ## Contato:
@@ -17,9 +18,6 @@ Seja bem-vindo ao meu GitHub!
 
 <div>
 <a href="https://github.com/RaysseCristine">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaysseCristine&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RaysseCristine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>w_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
