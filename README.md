@@ -1,12 +1,16 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
 - :mortar_board: Sou iniciante em TI, com formação em Gestão Financeira.
-- :sunglasses: Tenho conhecimento em Java, aprofundamento em regras, aspectos técnicos, lógica de programação com manipulação e construção de classes, atributos e mérito.
+- :coffee: Tenho conhecimento em Java, aprofundamento em regras, aspectos técnicos, lógica de programação com manipulação e construção de classes, atributos e mérito.
 - :books: Frameworks: JDBC, metodologia ágil Scrum e dependências como Maven.
+- :game_die: Banco de Dados MySQL e NoSQL.
+- :snake: Python para Análise de Dados.
 
 ## Ferramentas e Tecnologias em Desenvolvimento
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
+          
 
 
 
