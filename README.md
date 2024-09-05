@@ -1,8 +1,8 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-- :mortar_board: Sou iniciante em TI, com formação em Gestão Financeira.
+- :mortar_board: Sou estudante de Análise e Desenvolvimento de Sistemas, com formação em Gestão Financeira.
 - :coffee: Tenho conhecimento em Java, aprofundamento em regras, aspectos técnicos, lógica de programação com manipulação e construção de classes, atributos e mérito.
-- :books: Frameworks: JDBC, metodologia ágil Scrum e dependências como Maven.
+- :books: Frameworks: Spring Boot, metodologia ágil Scrum e dependências como Maven.
 - :game_die: Banco de Dados MySQL e NoSQL.
 - :snake: Python para Análise de Dados.
 
