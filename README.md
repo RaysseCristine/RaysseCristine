@@ -26,7 +26,7 @@ Aqui você encontrará projetos desenvolvidos para aprimorar meus conhecimentos 
 
 ## 📫 Contato
 
-<a href="https://www.linkedin.com/in/raysse-cristine-salvino-teixeira-b1b707244/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/raysse-cristine-salvino-teixeira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 
